@@ -19,6 +19,7 @@ function App() {
 
   return (
     <main>
+      <h1>HELLO WORLD</h1>
       <h1>My todos</h1>
       <button onClick={createTodo}>+ new</button>
       <ul>
